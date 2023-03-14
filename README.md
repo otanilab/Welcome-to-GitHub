@@ -7,6 +7,6 @@
 - [バージョン管理とは](./contents/virsion-management/README.md)
 - [GitHubとは](./contents/github/README.md)
 - [環境構築](./contents/environment/README.md)
-- [コマンド解説 ~個人開発編~](./contents/individual/README.md)
-- [コマンド解説 ~グループ開発編~](./contents/group/README.md)
+- [コマンド解説 ～個人開発編～](./contents/individual/README.md)
+- [コマンド解説 ～グループ開発編～](./contents/group/README.md)
 
