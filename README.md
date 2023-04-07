@@ -4,8 +4,8 @@
 なお，本リポジトリの説明は，サーバ管理演習の講義で扱うレベルのCLIの操作を習得していることを前提とする．
 
 ## Table of Contents
-- [バージョン管理とは](./contents/version-management/README.md)
-- [GitHubとは](./contents/github/README.md)
+- [バージョン管理](./contents/version-management/README.md)
+- [用語集](./contents/glossary/README.md)
 - [環境構築](./contents/environment/README.md)
 - [コマンド解説 ～個人開発編～](./contents/individual/README.md)
 - [コマンド解説 ～グループ開発編～](./contents/group/README.md)
